@@ -1,0 +1,13 @@
+/Users/nathanwise/exercism/csharp/raindrops/obj/Debug/netcoreapp2.0/Raindrops.csproj.CoreCompileInputs.cache
+/Users/nathanwise/exercism/csharp/raindrops/obj/Debug/netcoreapp2.0/Raindrops.AssemblyInfoInputs.cache
+/Users/nathanwise/exercism/csharp/raindrops/obj/Debug/netcoreapp2.0/Raindrops.AssemblyInfo.cs
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/Raindrops.deps.json
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/Raindrops.runtimeconfig.json
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/Raindrops.runtimeconfig.dev.json
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/Raindrops.dll
+/Users/nathanwise/exercism/csharp/raindrops/bin/Debug/netcoreapp2.0/Raindrops.pdb
+/Users/nathanwise/exercism/csharp/raindrops/obj/Debug/netcoreapp2.0/Raindrops.dll
+/Users/nathanwise/exercism/csharp/raindrops/obj/Debug/netcoreapp2.0/Raindrops.pdb

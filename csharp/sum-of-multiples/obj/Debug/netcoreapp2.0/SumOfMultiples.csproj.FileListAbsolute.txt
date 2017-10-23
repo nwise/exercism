@@ -1,0 +1,13 @@
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.deps.json
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.json
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.dev.json
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/nathanwise/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.pdb
+/Users/nathanwise/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.csproj.CoreCompileInputs.cache
+/Users/nathanwise/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfoInputs.cache
+/Users/nathanwise/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfo.cs
+/Users/nathanwise/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/nathanwise/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.pdb

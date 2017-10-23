@@ -1,0 +1,13 @@
+/Users/nathanwise/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.csproj.CoreCompileInputs.cache
+/Users/nathanwise/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.AssemblyInfoInputs.cache
+/Users/nathanwise/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.AssemblyInfo.cs
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.deps.json
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.runtimeconfig.json
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.runtimeconfig.dev.json
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.dll
+/Users/nathanwise/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.pdb
+/Users/nathanwise/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.dll
+/Users/nathanwise/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.pdb

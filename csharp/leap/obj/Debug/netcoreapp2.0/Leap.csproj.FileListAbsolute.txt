@@ -1,0 +1,13 @@
+/Users/nathanwise/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.csproj.CoreCompileInputs.cache
+/Users/nathanwise/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfoInputs.cache
+/Users/nathanwise/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfo.cs
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.deps.json
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.json
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.dev.json
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.dll
+/Users/nathanwise/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.pdb
+/Users/nathanwise/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.dll
+/Users/nathanwise/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.pdb

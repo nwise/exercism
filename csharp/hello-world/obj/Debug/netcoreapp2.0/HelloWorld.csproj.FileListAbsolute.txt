@@ -1,0 +1,13 @@
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/nathanwise/exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/nathanwise/exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nathanwise/exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nathanwise/exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/nathanwise/exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/nathanwise/exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.pdb
