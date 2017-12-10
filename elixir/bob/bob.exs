@@ -18,5 +18,6 @@ defmodule Bob do
       Regex.match?(~r/^[^a-z]*$/, scrubbed_input) -> "Whoa, chill out!"
 
       true -> "Whatever."
+    end
   end
 end

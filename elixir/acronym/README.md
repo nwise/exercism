@@ -1,15 +1,11 @@
-# Word Count
+# Acronym
 
-Write a program that given a phrase can count the occurrences of each word in that phrase.
+Convert a long phrase to its acronym
 
-For example for the input `"olly olly in come free"`
+Techies love their TLA (Three Letter Acronyms)!
 
-```plain
-olly: 2
-in: 1
-come: 1
-free: 1
-```
+Help generate some jargon by writing a program that converts a long name
+like Portable Network Graphics to its acronym (PNG).
 
 
 ## Running tests
@@ -51,4 +47,4 @@ see the [help page](http://exercism.io/languages/elixir).
 
 ## Source
 
-This is a classic toy problem, but we were reminded of it by seeing it in the Go Tour.
+Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
