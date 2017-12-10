@@ -1,22 +1,22 @@
-﻿<Properties StartupConfiguration="{5FD4A00F-EACF-44CC-9779-6767A1902B81}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Accumulate.cs">
+﻿<Properties StartupConfiguration="{C692F75C-AEFE-4E41-96EC-BA6BC11EB4A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseStringTest.cs">
     <Files>
-      <File FileName="Accumulate.cs" Line="12" Column="5" />
-      <File FileName="AccumulateTest.cs" Line="52" Column="9" />
+      <File FileName="ReverseString.cs" Line="10" Column="1" />
+      <File FileName="ReverseStringTest.cs" Line="32" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Accumulate" expanded="True">
-            <Node name="Accumulate" expanded="True">
-              <Node name="Accumulate.cs" selected="True" />
+          <Node name="ReverseString" expanded="True">
+            <Node name="ReverseString" expanded="True">
+              <Node name="ReverseStringTest.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="Accumulate" expanded="True" selected="True" />
+          <Node name="ReverseString" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -24,16 +24,16 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Accumulate" expanded="True" selected="True" />
+          <Node name="ReverseString" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Accumulate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReverseString PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
